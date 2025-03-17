@@ -4,7 +4,7 @@ import React from 'react'
 const Price = () => {
   return (
     <View style={styles.container}> 
-      <Text>Price</Text>
+      <Text>Price MAY INCREASE</Text>
     </View>
   )
 }
